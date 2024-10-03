@@ -1,4 +1,4 @@
-name: stutters
+name: yolostutter
 channels:
   - pytorch
   - nvidia
