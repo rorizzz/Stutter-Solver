@@ -79,4 +79,19 @@ python setup.py build_ext --inplace
 python generate_dysfluency.py
 ```
 
+### Citataion
+
+If you find our paper helpful, please cite it by:
+```sh
+@misc{zhou2024stuttersolverendtoendmultilingualdysfluency,
+      title={Stutter-Solver: End-to-end Multi-lingual Dysfluency Detection}, 
+      author={Xuanru Zhou and Cheol Jun Cho and Ayati Sharma and Brittany Morin and David Baquirin and Jet Vonk and Zoe Ezzes and Zachary Miller and Boon Lead Tee and Maria Luisa Gorno Tempini and Jiachen Lian and Gopala Anumanchipalli},
+      year={2024},
+      eprint={2409.09621},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2409.09621}, 
+}
+```
+
 
